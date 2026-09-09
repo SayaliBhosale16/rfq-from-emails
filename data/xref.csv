@@ -1,0 +1,65 @@
+alt_number,sku,source
+AF-04202,HHCS-1/2-13x2-SS,customer:acme-fab.com
+AF-76189,HHCS-1/2-13x2-1/2-SS,customer:acme-fab.com
+AF-22389,HN-1/2-13-SS,customer:acme-fab.com
+AF-37787,FW-1/2-SS,customer:acme-fab.com
+AF-66308,EL90-1/2-SS,customer:acme-fab.com
+AF-21635,BV-1/2-SS-FNPT,customer:acme-fab.com
+HL-9003-P,EL90-3/4-BR,customer:harborline-marine.com
+HL-59508-S,TEE-3/4-BR,customer:harborline-marine.com
+HL-55146-R,CPL-1-BR,customer:harborline-marine.com
+HL-84909-K,BV-1-BR-FNPT,customer:harborline-marine.com
+HL-40499-A,HOSE-3/8-PUSH,customer:harborline-marine.com
+HL-87512-P,CLAMP-12-SS,customer:harborline-marine.com
+TSM24720,EL90-1/2-BI,customer:tristate-mechanical.com
+TSM94943,TEE-1/2-BI,customer:tristate-mechanical.com
+TSM71103,CPL-1-BI,customer:tristate-mechanical.com
+TSM64072,NIP-1/2-CL-BI,customer:tristate-mechanical.com
+TSM50162,UNION-3/4-BI,customer:tristate-mechanical.com
+TSM89687,BV-3/4-BR-FNPT,customer:tristate-mechanical.com
+BC-81746-477,HOSE-1/2-PUSH-R50,customer:bluff-creek-dairy.com
+BC-70344-132,HOSE-1/2-PUSH,customer:bluff-creek-dairy.com
+BC-47897-929,HC-1/2-PUSH,customer:bluff-creek-dairy.com
+BC-7106-761,GLV-NIT-L-DZ,customer:bluff-creek-dairy.com
+BC-52488-131,TOWEL-BLUE-CS,customer:bluff-creek-dairy.com
+NF/27937/567,EMT-3/4-10,customer:northfork-hvac.com
+NF/20095/877,CONN-EMT-3/4-SS,customer:northfork-hvac.com
+NF/19680/237,WN-YEL,customer:northfork-hvac.com
+NF/9951/159,CB-20A-1P,customer:northfork-hvac.com
+NF/34109/931,THHN-12-BLK-500,customer:northfork-hvac.com
+PM-T43834,HB-M12-1.75x40-8.8,customer:pioneer-millwright.com
+PM-T70850,HB-M10-1.5x25-8.8,customer:pioneer-millwright.com
+PM-H4325,HN-M12-1.75-8.8,customer:pioneer-millwright.com
+PM-C85895,HHCS-3/8-16x2-1/2-ZP,customer:pioneer-millwright.com
+PM-R71441,HHCS-1/4-20x1-ZP,customer:pioneer-millwright.com
+PM-L50601,LW-3/8-ZP,customer:pioneer-millwright.com
+BW-0081366,HHCS-1/2-13x2-ZP,competitor:Boltwright
+BW-0069305,HHCS-1/2-13x2-PL,competitor:Boltwright
+BW-0051768,HHCS-5/8-11x3-ZP,competitor:Boltwright
+BW-0074731,HN-1/4-20-ZP,competitor:Boltwright
+BW-0004512,FW-1/4-SS,competitor:Boltwright
+BW-0071026,NL-1/2-13-ZP,competitor:Boltwright
+IP 26842-0649,EL90-1/2-BR,competitor:IronPeak Supply
+IP 85474-0617,EL90-1-BI,competitor:IronPeak Supply
+IP 62067-0005,TEE-1-SS,competitor:IronPeak Supply
+IP 26752-0519,CPL-3/4-SS,competitor:IronPeak Supply
+IP 58899-0336,BV-1/2-BR-FNPT,competitor:IronPeak Supply
+MI-423-0330,HOSE-3/8-PUSH-R50,competitor:Meridian Industrial
+MI-13489-0494,HOSE-1/2-AIR,competitor:Meridian Industrial
+MI-14980-0182,GLV-NIT-L,competitor:Meridian Industrial
+MI-61779-0766,GLV-NIT-M-DZ,competitor:Meridian Industrial
+MI-47698-0968,SG-CLR,competitor:Meridian Industrial
+KF36950B,EMT-1/2-10,competitor:Keystone Fittings
+KF85648H,WN-RED,competitor:Keystone Fittings
+KF98159K,CB-30A-2P,competitor:Keystone Fittings
+KF84918A,ZT-11-BX,competitor:Keystone Fittings
+RL-62569,EL90-1/2-BI,legacy
+RL-30852,TEE-3/4-BI,legacy
+RL-67897,HHCS-1/2-13x2-ZP,legacy
+RL-98676,HN-3/8-16-ZP,legacy
+RL-90889,BV-1-BR-FNPT,legacy
+RL-77981,WN-YEL,legacy
+RL-73014,GLV-NIT-L,legacy
+RL-19326,HOSE-3/8-PUSH,legacy
+RL-89466,EL90-1/2-GALV,legacy
+RL-79950,HHCS-1/2-13x2-CD,legacy

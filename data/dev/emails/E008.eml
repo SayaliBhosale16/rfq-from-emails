@@ -1,0 +1,28 @@
+From: Aiden Cho <acho@stantonmachine.com>
+To: rfq@northwind-supply.example
+Date: Mon, 10 Aug 2026 08:20:00 -0500
+Subject: RFQ 2208-114
+Message-ID: <20260810082000.f584ea@stantonmachine.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1105720209675858637=="
+
+--===============1105720209675858637==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+csv attached, quote pls
+
+Aiden Cho
+Stanton Machine Works, ext. 214
+
+--===============1105720209675858637==
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="bom.csv"
+MIME-Version: 1.0
+
+cXR5LGRlc2NyaXB0aW9uDQoyMDAsSEhDUyAzLzgtMTYgeCAyLTEvMiB6aW5jDQoxMDAsTTEyIHgg
+NDAgaGV4IGJvbHQgY2xhc3MgOC44DQoxMDAsSEhDUyAxLzItMTMgeCAxLTEvMiB6aW5jDQoyIGJv
+eGVzLE0xMiBoZXggbnV0cyBjbGFzcyA4DQo=
+
+--===============1105720209675858637==--

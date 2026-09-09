@@ -1,0 +1,1058 @@
+{
+  "version": 2,
+  "emails": {
+    "E001": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "ridgewaywelding.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E001-1",
+          "raw": "50 pcs 3/8-16 x 1 hex cap screws zinc",
+          "qty": 50,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-3/8-16x1-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E001-2",
+          "raw": "6 - 3/4 brass gate valves",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "GV-3/4-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E001-3",
+          "raw": "4 rolls 2 inch duct tape",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "TAPE-DUCT-2",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E002": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "cobaltskids.com",
+      "action": "escalate",
+      "action_accept": [
+        "escalate",
+        "ask_customer"
+      ],
+      "line_items": [
+        {
+          "id": "E002-1",
+          "raw": "20 × ½ 90 elbows",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": null,
+          "abstain": "ambiguous",
+          "candidates": [
+            "EL90-1/2-BR",
+            "EL90-1/2-BI",
+            "EL90-1/2-SS",
+            "EL90-1/2-GV"
+          ]
+        },
+        {
+          "id": "E002-2",
+          "raw": "12 – IP 58899-0336 (.5 in brass ball valve)",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BV-1/2-BR-FNPT",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E002-3",
+          "raw": "40 – 0.500-13 x 2 hex cap screws, stainless",
+          "qty": 40,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E002-4",
+          "raw": "8 – brass ball valves, 1/2 or 3/4 threaded, whichever is in stock",
+          "qty": 8,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": null,
+          "abstain": "ambiguous",
+          "candidates": [
+            "BV-1/2-BR-FNPT",
+            "BV-3/4-BR-FNPT"
+          ]
+        }
+      ]
+    },
+    "E003": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "tristate-mechanical.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E003-1",
+          "raw": "50 of the 1/2″ black iron 90s",
+          "qty": 50,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-1/2-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E003-2",
+          "raw": "and 20 of the 3/4″",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E003-3",
+          "raw": "10 of the 3/4 tees, black iron",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "TEE-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E003-4",
+          "raw": "TSM64072 x 40",
+          "qty": 40,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "NIP-1/2-CL-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E003-5",
+          "raw": "100 hex cap screws 1/2-13 x 2 zinc",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-ZP",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E004": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "halvorsentruck.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E004-1",
+          "raw": "100 - 5/8-11 x 3 hex cap screws zinc plated",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-5/8-11x3-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E004-2",
+          "raw": "24 - 1/2 screw pin anchor shackles galv",
+          "qty": 24,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "SHACKLE-1/2-G",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E004-3",
+          "raw": "6 - laminated padlocks keyed different",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "PADLOCK-1-3/4",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E005": {
+      "classification": "not_rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "valvex-flow.com",
+      "action": "ignore",
+      "action_accept": null,
+      "line_items": []
+    },
+    "E006": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "prairie-bottling.coop",
+      "action": "ask_customer",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E006-1",
+          "raw": "30 meters of 3/8 push-lok hose",
+          "qty": 98.4,
+          "qty_tol": 0.05,
+          "uom": "FT",
+          "sku": "HOSE-3/8-PUSH",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E006-2",
+          "raw": "a couple of the 1-inch brass ball valves",
+          "qty": null,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BV-1-BR-FNPT",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E006-3",
+          "raw": "12 pairs of large nitrile gloves",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "PR",
+          "sku": "GLV-NIT-L",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E007": {
+      "classification": "needs_attachment",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "kesslerfoundry.com",
+      "action": "ask_customer",
+      "action_accept": null,
+      "line_items": []
+    },
+    "E008": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "stantonmachine.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E008-1",
+          "raw": "200,HHCS 3/8-16 x 2-1/2 zinc",
+          "qty": 200,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-3/8-16x2-1/2-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E008-2",
+          "raw": "100,M12 x 40 hex bolt class 8.8",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HB-M12-1.75x40-8.8",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E008-3",
+          "raw": "100,HHCS 1/2-13 x 1-1/2 zinc",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x1-1/2-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E008-4",
+          "raw": "2 boxes,M12 hex nuts class 8",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "HN-M12-1.75-8.8",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E009": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "acme-fab.com",
+      "action": "ask_customer",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E009-1",
+          "raw": "AF-04202 | 1/2-13 x 2 HHCS SS | 200",
+          "qty": 200,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E009-2",
+          "raw": "HCS-1/2-13X2-1/2-SS | hex cap screw 1/2-13 x 2-1/2 stainless | 150",
+          "qty": 150,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-1/2-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E009-3",
+          "raw": "AF-22389 | 1/2-13 hex nut SS | 2 BX",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "HN-1/2-13-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E009-4",
+          "raw": "EL90-1/2-GALV | 1/2 galv 90 | 30",
+          "qty": 30,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": null,
+          "abstain": "discontinued",
+          "candidates": [
+            "EL90-1/2-GV"
+          ]
+        }
+      ]
+    },
+    "E010": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": "E003",
+      "customer": "tristate-mechanical.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E010-1",
+          "raw": "make the 1/2 90s 80 not 50",
+          "qty": 80,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-1/2-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E010-2",
+          "raw": "and 20 of the 3/4″",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E010-3",
+          "raw": "10 of the 3/4 tees, black iron",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "TEE-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E010-4",
+          "raw": "TSM64072 x 40",
+          "qty": 40,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "NIP-1/2-CL-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E010-5",
+          "raw": "100 hex cap screws 1/2-13 x 2 zinc",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E010-6",
+          "raw": "add 10 of the 1/2 black iron caps",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CAP-1/2-BI",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E011": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "northfork-hvac.com",
+      "action": "escalate",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E011-1",
+          "raw": "10   NF/27937/567   3/4 EMT 10ft",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EMT-3/4-10",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E011-2",
+          "raw": "4    --             1in PVC conduit 10ft",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": null,
+          "sku": null,
+          "abstain": "not_in_catalog",
+          "candidates": []
+        },
+        {
+          "id": "E011-3",
+          "raw": "2 bx RL-77981      wire nuts yellow",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "WN-YEL",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E012": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "bergstromag.com",
+      "action": "escalate",
+      "action_accept": null,
+      "line_items": []
+    },
+    "E013": {
+      "classification": "duplicate",
+      "duplicate_of": "E004",
+      "supersedes": null,
+      "customer": "halvorsentruck.com",
+      "action": "ignore",
+      "action_accept": null,
+      "line_items": []
+    },
+    "E014": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "wexfordgrain.coop",
+      "action": "escalate",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E014-1",
+          "raw": "100 – hhcs 1/2 - 13 x 1 zp",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x1-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-2",
+          "raw": "100 – HHCS 1/2-13 x 2-1/2 ZP",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x2-1/2-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-3",
+          "raw": "50 – HHCS ½-13 x 3 ZP",
+          "qty": 50,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-1/2-13x3-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-4",
+          "raw": "200 – 3/8-16 x 1 hex cap screw zinc",
+          "qty": 200,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-3/8-16x1-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-5",
+          "raw": "200 – 3/8-16 x 1-1/4 hex cap screw zinc",
+          "qty": 200,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-3/8-16x1-1/4-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-6",
+          "raw": "4 bx – 3/8-16 hex nuts zinc",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "HN-3/8-16-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-7",
+          "raw": "400 – 3/8 flat washers zinc",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "FW-3/8-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-8",
+          "raw": "2 bx – 3/8 lock washers zinc",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "LW-3/8-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-9",
+          "raw": "2 bx – 1/2-13 nylock nuts",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "NL-1/2-13-ZP",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-10",
+          "raw": "60 – M12 x 40 hex bolt 8.8",
+          "qty": 60,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HB-M12-1.75x40-8.8",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-11",
+          "raw": "1 bx – M12 hex nuts cl 8",
+          "qty": 1,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "HN-M12-1.75-8.8",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-12",
+          "raw": "30 – 3/4 90 elbow",
+          "qty": 30,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": null,
+          "abstain": "ambiguous",
+          "candidates": [
+            "EL90-3/4-BR",
+            "EL90-3/4-BI",
+            "EL90-3/4-SS"
+          ]
+        },
+        {
+          "id": "E014-13",
+          "raw": "30 – 3/4 tee black iron",
+          "qty": 30,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "TEE-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-14",
+          "raw": "20 – 3/4 coupling black iron",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CPL-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-15",
+          "raw": "20 – 3/4 black iron close nipple",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "NIP-3/4-CL-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-16",
+          "raw": "10 – 3/4 black iron union",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "UNION-3/4-BI",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-17",
+          "raw": "6 – 3/4 brass ball valve fnpt (under $25/ea if at all possible, that is what we paid last year)",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BV-3/4-BR-FNPT",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-18",
+          "raw": "4 – 1 in brass gate valve",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "GV-1-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-19",
+          "raw": "4 – 3/4 PVC ball valve",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": null,
+          "sku": null,
+          "abstain": "not_in_catalog",
+          "candidates": []
+        },
+        {
+          "id": "E014-20",
+          "raw": "2 – pipe dope 8 oz",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "PIPE-DOPE-8OZ",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-21",
+          "raw": "6 – ptfe tape 1/2",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "TAPE-PTFE-1/2",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-22",
+          "raw": "100 ft – 1/2 push lock hose",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "FT",
+          "sku": "HOSE-1/2-PUSH",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-23",
+          "raw": "12 – 1/2 push lock barb x 1/2 mnpt",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HC-1/2-PUSH",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-24",
+          "raw": "24 – #12 ss hose clamps",
+          "qty": 24,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CLAMP-12-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-25",
+          "raw": "10 – 1/2 EMT 10ft",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EMT-1/2-10",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-26",
+          "raw": "20 – 1/2 emt set screw connector",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CONN-EMT-1/2-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-27",
+          "raw": "10 – 1/2 emt set screw coupling",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CPL-EMT-1/2-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-28",
+          "raw": "2 bg – 1/2 emt one hole straps",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "BG",
+          "sku": "STRAP-EMT-1/2",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-29",
+          "raw": "2 – 20A 1P breaker",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CB-20A-1P",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-30",
+          "raw": "1 – 500' 12 awg thhn black",
+          "qty": 1,
+          "qty_tol": 0,
+          "uom": "RL",
+          "sku": "THHN-12-BLK-500",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-31",
+          "raw": "1 – 12 AWG THHN white 500 ft",
+          "qty": 1,
+          "qty_tol": 0,
+          "uom": "RL",
+          "sku": "THHN-12-WHT-500",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-32",
+          "raw": "6 – 4 sq box 2-1/8 deep",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BOX-4SQ-2-1/8",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-33",
+          "raw": "6 – 4 sq blank cover",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "COVER-4SQ-BLANK",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-34",
+          "raw": "12 – leather palm gloves L",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "PR",
+          "sku": "GLV-LTH-L",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-35",
+          "raw": "12 – safety glasses smoke",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "SG-SMK",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-36",
+          "raw": "2 – hard hat yellow",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HH-YEL",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-37",
+          "raw": "1 cs – blue shop towels",
+          "qty": 1,
+          "qty_tol": 0,
+          "uom": "CS",
+          "sku": "TOWEL-BLUE-CS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E014-38",
+          "raw": "1 – 25 lb box shop rags",
+          "qty": 1,
+          "qty_tol": 0,
+          "uom": "BX",
+          "sku": "RAG-25LB",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E015": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "copperlineplumbing.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E015-1",
+          "raw": "EL 90 3/4 BRASS qty 15",
+          "qty": 15,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-3/4-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E015-2",
+          "raw": "1” brass union qty 6",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "UNION-1-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E015-3",
+          "raw": "3/4 x 1/2 brass bushings, 10",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BUSH-3/4x1/2-BR",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E016": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "arrowheadboatworks.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E016-1",
+          "raw": "20 x 1/2 brass 90 elbow",
+          "qty": 20,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-1/2-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E016-2",
+          "raw": "6 - 1 x 3/4 brass bushing",
+          "qty": 6,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BUSH-1x3/4-BR",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E016-3",
+          "raw": "100 - 3/8 x 1 ss hex cap",
+          "qty": 100,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HHCS-3/8-16x1-SS",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E016-4",
+          "raw": "10 - 90° 3/4 brass ell",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "EL90-3/4-BR",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E017": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "tidewaterseafood.com",
+      "action": "ask_customer",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E017-1",
+          "raw": "3/4 ss ball valve, threaded             25",
+          "qty": null,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "BV-3/4-SS-FNPT",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E017-2",
+          "raw": "3/8 push lock hose                      2 reels",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "RL",
+          "sku": "HOSE-3/8-PUSH-R50",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E017-3",
+          "raw": "3/8 push lock barb x 3/8 mnpt           12",
+          "qty": 12,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "HC-3/8-PUSH",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    },
+    "E018": {
+      "classification": "rfq",
+      "duplicate_of": null,
+      "supersedes": null,
+      "customer": "hearthstoneceramics.com",
+      "action": "auto_quote",
+      "action_accept": null,
+      "line_items": [
+        {
+          "id": "E018-1",
+          "raw": "4 30A 2 pole breakers",
+          "qty": 4,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CB-30A-2P",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E018-2",
+          "raw": "10 14 AWG THHN red 500' reels",
+          "qty": 10,
+          "qty_tol": 0,
+          "uom": "RL",
+          "sku": "THHN-14-RED-500",
+          "abstain": null,
+          "candidates": []
+        },
+        {
+          "id": "E018-3",
+          "raw": "2 15A single pole breakers",
+          "qty": 2,
+          "qty_tol": 0,
+          "uom": "EA",
+          "sku": "CB-15A-1P",
+          "abstain": null,
+          "candidates": []
+        }
+      ]
+    }
+  }
+}
